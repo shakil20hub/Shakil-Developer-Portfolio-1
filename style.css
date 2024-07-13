@@ -38,3 +38,13 @@ body{
 .half-width img{
     width: 100%;
 }
+.body-section{
+    display: flex;
+}
+.body-section{
+    background-image: url(images/top-banner1.png);
+    background-repeat: no-repeat;
+}
+.body-section img {
+    width: 100%;
+}
